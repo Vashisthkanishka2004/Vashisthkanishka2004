@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vashisthkanishka2004
 - 👀 I’m interested in ...coding & cyber security 
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...CEH
+- 🌱 ...python programmer 
+- 
 - 📫 How to reach me ...
 - mailme:- vashisthkanishka2004@gmail.com
 
